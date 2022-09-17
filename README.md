@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Releases](https://github.com/DSDmark/BouncingBall/actions/workflows/main.yml/badge.svg)](https://github.com/DSDmark/BouncingBall/actions/workflows/main.yml)
+
 # BouncingBall
 
 <div>
