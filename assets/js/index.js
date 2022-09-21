@@ -24,7 +24,7 @@ const bounceBall = {
   velocity_y: 2,
   radius: 10,
   color: "white",
-  angle: -30, //! BY DEFAULT COMPUTER CONSIDER ANGLE IN RADIUS . THATAWAY -30.
+  angle: 30, //! BY DEFAULT COMPUTER CONSIDER ANGLE IN RADIUS . THATAWAY -30.
   position: {
     x: CW / 2,
     y: CH / 2,
@@ -39,23 +39,28 @@ const bounceBall = {
     ctx.fill();
   },
   update() {
+  debugger;
     if (
       this.position.x + this.radius > CW ||
       this.position.x - this.radius < 0
     ) {
-      this.angle = 180 - this.angle;
+       this.angle = 180 - this.angle;
       this.color = "black";
+   
     }
     if (
       this.position.y + this.radius > CH ||
       this.position.y - this.radius < 0
     ) {
       this.angle = 360 - this.angle;
+
+
       this.color = "white";
     }
 
     this.velocity_x = Math.cos(this.angle * (Math.PI / 180)) * this.speed;
     this.velocity_y = Math.sin(this.angle * (Math.PI / 180)) * this.speed;
+   console.log(this.velocity_y,this.velocity_x);
     this.position.x += this.velocity_x;
     this.position.y += this.velocity_y;
   },
@@ -71,10 +76,9 @@ function gameLoop() {
 
   window.requestAnimationFrame(gameLoop);
 }
-window.requestAnimationFrame(gameLoop);
+ window.requestAnimationFrame(gameLoop);
 
 //? YOUR CAN USE SETINTERVAL FUNCTION AS WELL BUT REQUESTANIMATIONFRAME HAS OWN ADVANTAGES
-
 // setInterval(() => {
-//   gameLoop();
+//   gameLoop();ho
 // }, 1000 / 60);
