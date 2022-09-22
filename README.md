@@ -5,7 +5,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/BouncingBall)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/BouncingBall)
 
-
 # BouncingBall
 
 <div>
