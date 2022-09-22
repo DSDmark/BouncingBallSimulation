@@ -1,7 +1,7 @@
 <div align="center">
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/BouncingBall)
-![GitHub](https://img.shields.io/github/license/DSDmark/BouncingBall)
+![Githun tag](https://img.shields.io/github/license/DSDmark/BouncingBall)
 ![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/BouncingBall)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/BouncingBall)
 
