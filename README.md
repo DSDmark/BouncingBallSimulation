@@ -26,7 +26,7 @@
 1. Click on green **Clone or download** button and choose Download ZIP.
 2. Find the downloaded zipped file on your pc and extract it.
 3. Go to folder. Inside the folder you will find a file named **index.html**.
-4. Double click on **index.html** file and your browser will open (or maybe just a new tab) and you will see the reuslt.
+4. Double click on **index.html** file and your browser wlicenseill open (or maybe just a new tab) and you will see the reuslt.
 5. If for whatever reason your browser does not open, right click on **index.html** file go down to **Open with**
    and choose your web browser. This will open the browser and launch it.
 
