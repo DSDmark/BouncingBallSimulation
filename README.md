@@ -55,11 +55,12 @@ Once you are done playing you can close the tab in your browser.
 
 ![BouncingBall preview](assets/images/preview.gif "BouncingBall")
 
-</div>
+
 
 > If you have any issues with the game feel free to let me know!
 
 > If you are more interested, check out the collection of others [ **DSDmark Repos**](https://github.com/DSDmark?tab=repositories "DSDmark Repos").
 
+</div>
 
 ---
