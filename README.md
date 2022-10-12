@@ -28,7 +28,7 @@
 We use the angle for moving ball and calculate **Cos/Sin** again and again. If you want to go in advance them you can calculate with use unit velocity direction vector with components. And when ball get hit the wall we change the angle by use of 180/360.
 
 
-> [**Here is better Explanation**](https://stackoverflow.com/questions/45154176/calculate-angle-change-after-hitting-a-tilted-wall)
+- [**Here is better Explanation**](https://stackoverflow.com/questions/45154176/calculate-angle-change-after-hitting-a-tilted-wall)
 
 > Here is the all material if you want to understand how is works. You need these videos for better understanding.
 
