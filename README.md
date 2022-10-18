@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/BouncingBall)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/BouncingBall)
 
-# BouncingBall
+# BouncingBall 
 
 </div>
 
@@ -57,7 +57,7 @@ Once you are done playing you can close the tab in your browser.
 
 
 
-> If you have any issues with the game feel free to let me know!
+> If you have any issues with the  feel free to let me know!
 
 > If you are more interested, check out the collection of others [ **DSDmark Repos**](https://github.com/DSDmark?tab=repositories "DSDmark Repos").
 
