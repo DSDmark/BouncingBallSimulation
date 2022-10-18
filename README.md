@@ -17,7 +17,7 @@
 
 ## Purpose
 
-> Moving the element in a random direction is the basic concept behind programmatic mathematics. Where the different rules and conditions are. This is a simple web Application that's show you how things are work in real life projects.
+> Moving the element in a random direction is the basic concept behind programmatic mathematics. Where the different rules and conditions are. This is a simple web Application that's show you how things are work in mathematical way.
 
 ---
 
