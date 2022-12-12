@@ -51,7 +51,7 @@ Once you are done playing you can close the tab in your browser.
 
 ## Try out BouncingBallSimulation Demo:-
 
-![BouncingBall Demo](https://dsdmark.github.io/BouncingBall/ "BouncingBall")
+![BouncingBall Demo](https://dsdmark.github.io/BouncingBallSimulation/ "BouncingBall")
 
 </div>
 
