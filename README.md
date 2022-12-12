@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/BouncingBall)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/BouncingBall)
 
-# BouncingBall 
+# BouncingBallSimulation 
 
 </div>
 
@@ -49,7 +49,7 @@ Once you are done playing you can close the tab in your browser.
 
 ---
 
-## Try out BouncingBall Demo:-
+## Try out BouncingBallSimulation Demo:-
 
 ![BouncingBall Demo](https://dsdmark.github.io/BouncingBall/ "BouncingBall")
 
